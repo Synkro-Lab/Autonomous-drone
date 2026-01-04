@@ -3,6 +3,9 @@
 ## Introduction
 
 This document outlines the architecture, operation, and technical guidelines of the **Synkro Drone**, a lightweight UAV developed for autonomy testing, control systems validation, and embedded system experimentation. Its purpose is to establish a clear foundation for development, maintenance, and future scalability.
+<div align="center">
+  <img src="Ensamble_Dron.png" width="800"/>
+</div>
 
 ---
 
